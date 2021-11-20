@@ -1,5 +1,5 @@
 body {
-    background-color: red;
+    background-color: rgba(255, 0, 0, 0.212);
     background-image: url(images/background.jpg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -9,6 +9,7 @@ body {
 .container {
     width: 100%;
     padding: 0px;
+    margin-top: 150px;
 }
 
 .images {
